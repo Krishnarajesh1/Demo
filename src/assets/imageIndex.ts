@@ -1,0 +1,22 @@
+export default {
+  homeBgImage : require('../assets/images/homeBgImage.jpg'),
+  profileBgImage : require('../assets/images/profileBg.jpg'),
+  profilePic : require('../assets/images/profilePic.jpg'),
+  deleteIcon : require('../assets/images/delete.png'),
+  dribbleIcon : require('../assets/images/dribbble.png'),
+  emailIcon : require('../assets/images/email.png'),
+  fbIcon : require('../assets/images/facebook.png'),
+  textIcon : require('../assets/images/font.png'),
+  backIcon : require('../assets/images/left.png'),
+  notifyIcon : require('../assets/images/notification.png'),
+  pinIcon : require('../assets/images/social.png'),
+  twitIcon : require('../assets/images/twitter.png'),
+  twitBwIcon : require('../assets/images/twitBw.png'),
+  fur1 : require('../assets/images/fur1.jpg'),
+  fur2 : require('../assets/images/fur2.jpg'),
+  fur3 : require('../assets/images/fur3.jpg'),
+  fur4 : require('../assets/images/fur4.jpg'),
+  fur5 : require('../assets/images/fur5.jpg'),
+  fur6 : require('../assets/images/fur6.jpg'),
+  userIcon : require('../assets/images/user.png')
+}
